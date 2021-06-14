@@ -1,0 +1,7 @@
+version: "3"
+
+services: 
+    nodeex: 
+        image: leoff00/nodeexpressimg:latest
+        ports: 
+        - 3333:3333
