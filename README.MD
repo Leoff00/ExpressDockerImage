@@ -2,9 +2,8 @@
 
 ## Getting started 
 
-to run the project type: 
-> $ docker run -p 3333:3333 -d serene_chebyshev <br>
-> or ce7c5aa93203 (image id).
+to run the project enter in docker-compose.yaml and type: 
+> $ docker-compose up.
 
 <hr>
 
